@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Photo Editing
+  percentage: 65
   color: info
 
-- name: Adobe Illustrator
+- name: AI prompt engineering
   percentage: 90
   color: success
